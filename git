@@ -1,14 +1,12 @@
 #!/bin/bash
 
 if [ "pruebas pasadas" ]; then
-	echo " - copy Configuration Folders across"
-	cp -r $BACKUPROOTDIR/Configuration/* $GITROOT/HOH-config-backups/
-	cp -r $BACKUPROOTDIR/scripts $GITROOT/HOH-config-backups/
-	git add . 
-	git commit -a -m "committing any new configuration changes!"
-	git push origin master
-	echo ""
-	echo "git repo updated"
+        cd /home/juan/Documentos/cron
+        git add script
+        git commit -m "committing any new configuration changes!"
+        git push origin master
+        echo ""
+        echo "git repo updated"
 else
-	echo "Fallo las pruebas"
+        echo "Fallo las pruebas"
 fi
