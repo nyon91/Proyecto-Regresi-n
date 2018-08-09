@@ -1,12 +1,21 @@
 #!/bin/bash
 
-if [ "pruebas pasadas" ]; then
+for line in $(cat file.txt);
+
+do
+
+var=1
+
+if [ $line -eq $var ]; then
+	echo "sirve"
         cd /home/juan/Documentos/cron
-        git add script
-        git commit -m "committing any new configuration changes!"
+        git add file.txt
+        git commit -m "committing new configuration changes!"
         git push origin master
         echo ""
         echo "git repo updated"
 else
         echo "Fallo las pruebas"
-fi
+fi;
+
+done
