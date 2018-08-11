@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Ejecutando las pruebas del Fri Aug 10 19:32:09 2018
+=======
 Ejecutando las pruebas del Thu Aug  9 13:39:43 2018
+>>>>>>> 939bfd0131d918b7b4fc5134ce673b1755b6f5de
 
