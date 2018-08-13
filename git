@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd /home/juan/Documentos/cron
-./test > pruebas.txt
+./pruebas #> pruebas.txt
 
 for line in $(cat file.txt);
 
@@ -10,9 +10,8 @@ do
 var=1
 
 if [ $line -eq $var ]; then
-	echo "sirve"
         cd /home/juan/Documentos/cron
-        git add file.txt
+        git add -u
         git commit -m "committing new configuration changes!"
         git push origin master
         echo ""
