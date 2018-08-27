@@ -1,0 +1,62 @@
+{
+    "_vcs_DPI_package": [
+        "_vcs_DPI_package",
+        "uM9F1",
+        "module"
+    ],
+    "prll_d_reg_0000": [
+        "prll_d_reg_0000",
+        "jJa1f",
+        "module"
+    ],
+    "_vcs_unit__1488889437": [
+        "_vcs_unit__1488889437",
+        "h9gbj",
+        "module"
+    ],
+    "vcs_paramclassrepository": [
+        "vcs_paramclassrepository",
+        "hEeZs",
+        "module"
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module"
+    ],
+    "uvm_pkg": [
+        "uvm_pkg",
+        "zr7M1",
+        "module"
+    ],
+    "fifo_0000": [
+        "fifo_0000",
+        "hgzvm",
+        "module"
+    ],
+    "dff_async_rst": [
+        "dff_async_rst",
+        "UDirP",
+        "module"
+    ],
+    "uart": [
+        "uart",
+        "bvImI",
+        "module"
+    ],
+    "mem_if": [
+        "mem_if",
+        "CVSsc",
+        "module"
+    ],
+    "tbench_top": [
+        "tbench_top",
+        "Mk7In",
+        "module"
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module"
+    ]
+}

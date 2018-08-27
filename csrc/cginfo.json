@@ -1,0 +1,104 @@
+{
+    "stat": {
+        "nMops": 247809
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "vcs_paramclassrepository",
+        "_vcs_DPI_package",
+        "_vcs_unit__1488889437",
+        "std",
+        "uvm_pkg",
+        "fifo_0000",
+        "prll_d_reg_0000",
+        "dff_async_rst",
+        "uart",
+        "mem_if",
+        "tbench_top"
+    ],
+    "NameTable": {
+        "_vcs_DPI_package": [
+            "_vcs_DPI_package",
+            "uM9F1",
+            "module"
+        ],
+        "prll_d_reg_0000": [
+            "prll_d_reg_0000",
+            "jJa1f",
+            "module"
+        ],
+        "_vcs_unit__1488889437": [
+            "_vcs_unit__1488889437",
+            "h9gbj",
+            "module"
+        ],
+        "vcs_paramclassrepository": [
+            "vcs_paramclassrepository",
+            "hEeZs",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "uvm_pkg": [
+            "uvm_pkg",
+            "zr7M1",
+            "module"
+        ],
+        "fifo_0000": [
+            "fifo_0000",
+            "hgzvm",
+            "module"
+        ],
+        "dff_async_rst": [
+            "dff_async_rst",
+            "UDirP",
+            "module"
+        ],
+        "uart": [
+            "uart",
+            "bvImI",
+            "module"
+        ],
+        "mem_if": [
+            "mem_if",
+            "CVSsc",
+            "module"
+        ],
+        "tbench_top": [
+            "tbench_top",
+            "Mk7In",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "Misc": {
+        "cwd": "/home/runner",
+        "csrc": "csrc",
+        "csrc_abs": "/home/runner/csrc",
+        "daidir": "simv.daidir",
+        "archive_dir": "archive.0",
+        "default_output_dir": "csrc",
+        "daidir_abs": "/home/runner/simv.daidir"
+    },
+    "CompileStrategy": "fullobj",
+    "CurCompileUdps": {},
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 248538
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": [],
+    "CompileProcesses": [
+        "cgproc.401.json"
+    ],
+    "CompileStatus": "Successful"
+}

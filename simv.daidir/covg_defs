@@ -1,0 +1,116 @@
+global coverage_group 0 mem_if::UART __coverage_UART unused_UART_loop_label mem_if 0 0 0 ( )
+ 1 1
+ 29 /home/runner/mem_interface.sv
+ 78 0 0 0 0 0 0 0 0  1
+0
+26 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+3
+0
+2
+ 6 Dato_1 81 0 0 0 20 UART::mem_if_UART_fn 20 UART::mem_if_UART_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 8 0 0 0 0 2 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 1 0 1 1 4 DATA 82 0 1 0 0 0 0 0 0 0 0 22 UART::mem_if_UART_fn_0 0 -1 0 0 -1 0 0 1 1 1 22 UART::mem_if_UART_fn_1 0 22 UART::mem_if_UART_fn_2 0 0 0 0 0
+
+ 5 Carga 86 0 0 0 22 UART::mem_if_UART_fn_3 22 UART::mem_if_UART_fn_3 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 1 0 0 0 0 2 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 1 0 1 1 7 load_TX 87 0 1 0 0 0 0 0 0 0 0 22 UART::mem_if_UART_fn_4 0 -1 0 0 -1 0 0 2 1 1 22 UART::mem_if_UART_fn_5 0 0 0 0 0 0 0
+ 1 1 22 UART::mem_if_UART_fn_6 0 0 0 0 0 0 0
+
+ 8 Carga_RX 93 0 0 0 22 UART::mem_if_UART_fn_7 22 UART::mem_if_UART_fn_7 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 1 0 0 0 0 2 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 1 0 1 1 7 load_RX 94 0 1 0 0 0 0 0 0 0 0 22 UART::mem_if_UART_fn_4 0 -1 0 0 -1 0 0 2 1 1 22 UART::mem_if_UART_fn_5 0 0 0 0 0 0 0
+ 1 1 22 UART::mem_if_UART_fn_6 0 0 0 0 0 0 0
+
+ 9 Resultado 0 90 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 12 Resultado_RX 0 97 0 0 0 0 2 0 2 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group

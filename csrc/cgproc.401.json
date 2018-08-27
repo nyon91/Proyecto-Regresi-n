@@ -1,0 +1,191 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "vcs_paramclassrepository": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        },
+        "_vcs_DPI_package": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        },
+        "prll_d_reg_0000": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        },
+        "_vcs_unit__1488889437": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        },
+        "std": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        },
+        "uvm_pkg": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        },
+        "fifo_0000": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        },
+        "dff_async_rst": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        },
+        "uart": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        },
+        "mem_if": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        },
+        "tbench_top": {
+            "Compiled Times": 1,
+            "Compiled": "Yes"
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "amcQw_d.o",
+            "mod": "...MASTER...",
+            "bytes": 5168,
+            "mode": 4
+        },
+        "bvImI_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "bvImI_d.o",
+            "mod": "uart",
+            "bytes": 36984,
+            "mode": 4
+        },
+        "hEeZs_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "hEeZs_d.o",
+            "mod": "vcs_paramclassrepository",
+            "bytes": 2951266,
+            "mode": 4
+        },
+        "hgzvm_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "hgzvm_d.o",
+            "mod": "fifo_0000",
+            "bytes": 19129,
+            "mode": 4
+        },
+        "uM9F1_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "uM9F1_d.o",
+            "mod": "_vcs_DPI_package",
+            "bytes": 17492,
+            "mode": 4
+        },
+        "h9gbj_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "h9gbj_d.o",
+            "mod": "_vcs_unit__1488889437",
+            "bytes": 215596,
+            "mode": 4
+        },
+        "Mk7In_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "Mk7In_d.o",
+            "mod": "tbench_top",
+            "bytes": 13412,
+            "mode": 4
+        },
+        "reYIK_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "reYIK_d.o",
+            "mod": "std",
+            "bytes": 20160,
+            "mode": 4
+        },
+        "zr7M1_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "zr7M1_d.o",
+            "mod": "uvm_pkg",
+            "bytes": 2483443,
+            "mode": 4
+        },
+        "jJa1f_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "jJa1f_d.o",
+            "mod": "prll_d_reg_0000",
+            "bytes": 5271,
+            "mode": 4
+        },
+        "UDirP_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "UDirP_d.o",
+            "mod": "dff_async_rst",
+            "bytes": 5181,
+            "mode": 4
+        },
+        "CVSsc_d": {
+            "archive": "archive.0/_401_archive_1.a",
+            "out": "CVSsc_d.o",
+            "mod": "mem_if",
+            "bytes": 38040,
+            "mode": 4
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_401_archive_1.a",
+            "objects": [
+                [
+                    "amcQw_d.o",
+                    5168
+                ],
+                [
+                    "hEeZs_d.o",
+                    2951266
+                ],
+                [
+                    "uM9F1_d.o",
+                    17492
+                ],
+                [
+                    "h9gbj_d.o",
+                    215596
+                ],
+                [
+                    "reYIK_d.o",
+                    20160
+                ],
+                [
+                    "zr7M1_d.o",
+                    2483443
+                ],
+                [
+                    "hgzvm_d.o",
+                    19129
+                ],
+                [
+                    "jJa1f_d.o",
+                    5271
+                ],
+                [
+                    "UDirP_d.o",
+                    5181
+                ],
+                [
+                    "bvImI_d.o",
+                    36984
+                ],
+                [
+                    "CVSsc_d.o",
+                    38040
+                ],
+                [
+                    "Mk7In_d.o",
+                    13412
+                ]
+            ],
+            "size": 5811142
+        }
+    ]
+}
